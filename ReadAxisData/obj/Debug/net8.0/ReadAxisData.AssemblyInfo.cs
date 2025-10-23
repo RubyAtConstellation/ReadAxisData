@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadAxisData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21df0ae375b23820e2106485e1fed55eb0fd4503")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadAxisData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadAxisData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

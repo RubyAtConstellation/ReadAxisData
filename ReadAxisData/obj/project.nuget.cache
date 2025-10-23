@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zsv5HNPYFFw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\b6r\\source\\repos\\ReadAxisData\\ReadAxisData\\ReadAxisData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b6r\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.10\\system.configuration.configurationmanager.9.0.10.nupkg.sha512",
+    "C:\\Users\\b6r\\.nuget\\packages\\system.data.oledb\\9.0.10\\system.data.oledb.9.0.10.nupkg.sha512",
+    "C:\\Users\\b6r\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.10\\system.diagnostics.eventlog.9.0.10.nupkg.sha512",
+    "C:\\Users\\b6r\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.10\\system.diagnostics.performancecounter.9.0.10.nupkg.sha512",
+    "C:\\Users\\b6r\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.10\\system.security.cryptography.protecteddata.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

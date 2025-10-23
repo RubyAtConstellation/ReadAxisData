@@ -103,7 +103,7 @@ static void CreateNode(DataTable linksTable, DataTable tableLinksTable, TreeNode
 
     }
 }
-
+  
 static XElement ConvertToXml(TreeNode node)
 {
     return new XElement("Node",
@@ -117,7 +117,7 @@ static XElement ConvertToXml(TreeNode node)
 
 static XElement PrintXML(int[] tableKeys, DataTable linksTable, DataTable tableLinksTable, DataTable tables)
 {
-    var root = new TreeNode(0, "ROOT","Ignore",0);
+    var root = new TreeNode(0, "CELL","Ignore",0);
     foreach (var key in tableKeys)
     {
         Console.Write(key);
